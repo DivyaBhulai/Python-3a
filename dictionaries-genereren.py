@@ -5,3 +5,4 @@ value = dic1[key]
 
 for key in dic1:
     print(value)
+    break
